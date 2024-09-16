@@ -8,9 +8,9 @@ setup(
     description="A Python library implementing Vedic Mathematics Sutras",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/vedic-math-lib",
-    author="Your Name",
-    author_email="youremail@example.com",
+    url="https://github.com/knarsing/vedic-math-lib/tree/main/vedic-math-lib",
+    author="knarsing",
+    author_email="narsing.pimple@gmail.com",
     license="MIT",
     packages=find_packages(),
     classifiers=[
